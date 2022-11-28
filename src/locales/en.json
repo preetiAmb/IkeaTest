@@ -1,0 +1,11 @@
+{
+    "search": "Search",
+    "home": "Home",
+    "product": {
+      "title": "Tile",
+      "description": "Description",
+      "color": "Color"
+    },
+      "product_not_found": "Product not found",
+      "search_not_found": "Sorry, we did not find anything matching your search!"
+  }

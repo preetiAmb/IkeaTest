@@ -1,0 +1,13 @@
+{
+  "search": "Sök",
+  "filters": "Kategorier",
+  "home": "Hem",
+  "product": {
+    "information": "Information",
+    "name": "Namn",
+    "description": "Beskrivning",
+    "color": "Färg"
+  },
+  "product_not_found": "Produkten hittades inte",
+  "search_not_found": "Tyvärr hittade vi ingenting som matchade din sökning"
+}
